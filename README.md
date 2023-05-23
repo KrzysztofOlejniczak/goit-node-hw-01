@@ -1,4 +1,4 @@
-#Node Homework 01
+# Node Homework 01
 
 ```shell
 # Get and display the entire list of contacts in the form of a table (console.table)
